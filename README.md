@@ -1,4 +1,4 @@
-https://off-finance.com
+Track your finances with the love of your life with https://off-finance.com privacy & offline-first
 
 Orchestrate many agents with https://github.com/leonardourci/pnyx
 
