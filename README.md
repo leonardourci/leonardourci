@@ -1,5 +1,4 @@
-Track your finances easily, add expenses or income in under 5s https://off-finance.com
-  - privacy & offline-first
+Track your finances easily, add expenses or income in under 5s https://off-finance.com (also works 100% offline on Android)
 
 Orchestrate many agents with https://github.com/leonardourci/pnyx
 
