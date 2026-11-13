@@ -1,6 +1,6 @@
 https://off-finance.com
 
-Orchestrate many agents with a deterministic board (no extra tool calls for managing the board) using https://github.com/leonardourci/pnyx
+Orchestrate many agents with https://github.com/leonardourci/pnyx
 
 LinkedIn: https://linkedin.com/in/leonardourci
 
