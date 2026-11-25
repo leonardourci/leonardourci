@@ -1,6 +1,6 @@
 Track your finances easily, add expenses or income in under 5s https://off-finance.com (also works 100% offline on Android)
 
-Orchestrate many agents with https://github.com/leonardourci/pnyx
+Orchestrate many agents with https://github.com/leonardourci/othrys
 
 LinkedIn: https://linkedin.com/in/leonardourci
 
